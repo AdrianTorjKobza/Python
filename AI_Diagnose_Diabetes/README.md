@@ -1,1 +1,1 @@
-Feedforward neural network, to diagnose diabetes.
+Feed-forward neural network, to diagnose diabetes.
