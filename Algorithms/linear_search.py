@@ -1,4 +1,4 @@
-# Get the index position of the target, if found. 
+# Get the index position of the target (if found), using linear search. 
 def linear_search(list, target):
     list_length = len(list)
 
