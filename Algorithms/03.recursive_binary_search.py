@@ -1,4 +1,4 @@
-# Get the index position of the target (if found), using binary search. 
+# Check if target is found, using recursive binary search. 
 def recursive_binary_search(list, target):
     list_length = len(list)
     
