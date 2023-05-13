@@ -1,4 +1,3 @@
-
 # Selection Sort algo.
 # Sorting algorithm that works by repeatedly finding the minimum element,
 # from an unsorted portion of an array and moving it to the beginning of the sorted portion.
