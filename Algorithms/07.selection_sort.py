@@ -12,11 +12,10 @@ def selection_sort(list):
     
     return sorted_list
 
-
 def index_of_min(list):
     min_index = 0
     list_length = len(list)
-
+    
     for i in range (1, list_length):
         if list[i] < list[min_index]:
             min_index = i
