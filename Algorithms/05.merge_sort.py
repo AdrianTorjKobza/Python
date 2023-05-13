@@ -1,4 +1,7 @@
 # Merge Sort algo.
+# Sorting algorithm that uses the divide-and-conquer approach.
+# It works by dividing an array into two halves, sorting each half recursively,
+# and then merging the sorted halves back together to form a fully sorted array.
 def merge_sort(list):
     list_length = len(list)
 
